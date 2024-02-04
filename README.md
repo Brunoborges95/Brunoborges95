@@ -18,8 +18,6 @@
   <img align="center" alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div><br />
 
-Data Scientist. Graduated in Production Engineering and I have a master in Applied Mathematics. Enthusiast in Machine Learning, Black Hole Physics and Chess.
-
 ### Link to some of my projects
 
 Investment app
