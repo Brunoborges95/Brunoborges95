@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hello! I'm Bruno Souza👋
 
-<!--
-**Brunoborges95/Brunoborges95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-borges-de-souza-1b01b241/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@brunoborges_38708)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/brunoborges95)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCunU2gQ7M_A7TJ1snx-5cBA)
 
-Here are some ideas to get you started:
+[![Bruno Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunoborges95&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoborges95&hide_progress=True)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I use
+<div style="display: inline_block"><br/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img align="center" alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div><br />
+
+Data Scientist. Graduated in Production Engineering and I have a master in Applied Mathematics. Enthusiast in Machine Learning, Black Hole Physics and Chess.
+
+### Link to some of my projects
+
+Investment app
+
+https://medium.com/ensina-ai/otimizando-carteiras-de-investimentos-com-data-science-f545dbe30bae
+
+https://efficientportfolio-083c7378fbb2.herokuapp.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
