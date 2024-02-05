@@ -23,34 +23,20 @@ Advanced knowledge in statistics (multivariate analysis, descriptive statistics,
 
 ### Link to some of my projects
 
-
+#### ----------Investment app-------------------------------App Recommender-----------------------------------Credit Fraud-----------
 [<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://efficientportfolio-083c7378fbb2.herokuapp.com/)
 [<img alt="App Recommender" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgbvoAXJNtukPaLxGAZTiJVY9ERi-Et7t5jsC-3t-72S1yl_URjMn4GWdYFn72YGYC00&usqp=CAU"  width="300" height="200">](https://github.com/Brunoborges95/Data-Science-Projects/tree/main/user-app-recommender)
 [<img alt="Credit Fraud" src="https://media.licdn.com/dms/image/C4D12AQF0wQLbFQIXYA/article-cover_image-shrink_600_2000/0/1577474357187?e=1712793600&v=beta&t=l34l2kMPb6HFCSM1B18_UCeTOSUw4JIFloLl3XN7S1U"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/credit-fraud-supervised-vs-semisupervised-learning)
 
+#### --------Forecast with SARIMAX--------------------------AWS Data Lake-------------------------Recommender with Pyspark-------
 [<img alt="Forecast" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/d2f10226-ad86-4166-98ed-7ab185919af9"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/m5-time-series-forecasting-using-mapa-sarimax)
+[<img alt="AWS Data" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*4xgAidwmB9adVeA6pq0jbg.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/the-road-of-data-in-aws-c8f5fdf37c19)
+[<img alt="Recommender" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VZ26etj-rCbLyr1RvzFnuw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/recommender-system-using-als-in-pyspark-10329e1d1ee1)
 
-
-
-
-https://www.kaggle.com/code/brunoborges95/credit-fraud-supervised-vs-semisupervised-learning
-
-
-https://medium.com/ensina-ai/otimizando-carteiras-de-investimentos-com-data-science-f545dbe30bae
-
-
-
-https://efficientportfolio-083c7378fbb2.herokuapp.com/
-
-
-
-
-
-
-
-
-
-
+#### ----------Autoencoders-------------------------------Numbers of Clusters---------------------------Credit Approval Model--------
+[<img alt="Autoencoders" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*aiIb62GfeuGa4BEg7_CPJw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/unleashing-the-power-of-autoencoders-e0e019650de9)
+[<img alt="Clusters" src="https://media.licdn.com/dms/image/C4D12AQFQipvoxd6ERg/article-cover_image-shrink_423_752/0/1570478534489?e=1712793600&v=beta&t=oa30yYlqxGHsev-nupH5bdTCpBCkwp1wWY-zz4NISco"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
+[<img alt="Creditas" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/8c9397da-ed8e-44cd-b961-09af6547747a"  width="300" height="200">](https://github.com/Brunoborges95/Data-Science-Projects/blob/main/Processos_seletivos/desafio-ds-creditas/Desafio%20Data%20Science%20-%20Creditas.ipynb)
 
 
 
