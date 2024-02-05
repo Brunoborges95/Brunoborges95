@@ -18,6 +18,9 @@
   <img align="center" alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div><br />
 
+I have experience with python and R languages, using several libraries related to data science (Pandas, numpy, scikit-learn, scipy, pyspark, tensorflow, lightFM etc).
+Advanced knowledge in statistics (multivariate analysis, descriptive statistics, inference and hypothesis testing).
+
 ### Link to some of my projects
 
 Investment app
