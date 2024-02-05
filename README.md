@@ -25,7 +25,17 @@ Advanced knowledge in statistics (multivariate analysis, descriptive statistics,
 
 Investment app
 
+![image](https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932)
+
+<a href="[URL_DO_SEU_LINK](https://efficientportfolio-083c7378fbb2.herokuapp.com/)">
+  <img src="[URL_DA_SUA_IMAGEM](https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932)" alt="Investment app">
+  <p>Título da Imagem</p>
+</a>
+
+
 https://medium.com/ensina-ai/otimizando-carteiras-de-investimentos-com-data-science-f545dbe30bae
+
+
 
 https://efficientportfolio-083c7378fbb2.herokuapp.com/
 
