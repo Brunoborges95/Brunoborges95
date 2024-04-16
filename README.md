@@ -32,7 +32,7 @@ Advanced knowledge in statistics (multivariate analysis, descriptive statistics,
 
 #### ------------------App Recommender-----------------
 [<img alt="App Recommender" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgbvoAXJNtukPaLxGAZTiJVY9ERi-Et7t5jsC-3t-72S1yl_URjMn4GWdYFn72YGYC00&usqp=CAU"  width="300" height="200">](https://github.com/Brunoborges95/Data-Science-Projects/tree/main/user-app-recommender)
-#### -------------------Credit Fraud-----------
+#### -------------------Credit Fraud -----------
 [<img alt="Credit Fraud" src="https://media.licdn.com/dms/image/C4D12AQF0wQLbFQIXYA/article-cover_image-shrink_600_2000/0/1577474357187?e=1712793600&v=beta&t=l34l2kMPb6HFCSM1B18_UCeTOSUw4JIFloLl3XN7S1U"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/credit-fraud-supervised-vs-semisupervised-learning)
 
 #### --------Forecast with SARIMAX-----------
