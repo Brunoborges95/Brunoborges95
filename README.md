@@ -33,7 +33,7 @@ Advanced knowledge in statistics (multivariate analysis, descriptive statistics,
 #### ------------------App Recommender-----------------
 [<img alt="App Recommender" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgbvoAXJNtukPaLxGAZTiJVY9ERi-Et7t5jsC-3t-72S1yl_URjMn4GWdYFn72YGYC00&usqp=CAU"  width="300" height="200">](https://github.com/Brunoborges95/Data-Science-Projects/tree/main/user-app-recommender)
 #### -------------------Credit Fraud -----------
-[<img alt="Credit Fraud" src="![image](https://github.com/Brunoborges95/Brunoborges95/assets/36872369/59261a67-a3c8-481c-9215-ab859ff4f66e)"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/credit-fraud-supervised-vs-semisupervised-learning)
+[<img alt="Credit Fraud" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/59261a67-a3c8-481c-9215-ab859ff4f66e"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/credit-fraud-supervised-vs-semisupervised-learning)
 
 #### --------Forecast with SARIMAX-----------
 [<img alt="Forecast" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/d2f10226-ad86-4166-98ed-7ab185919af9"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/m5-time-series-forecasting-using-mapa-sarimax)
@@ -45,7 +45,7 @@ Advanced knowledge in statistics (multivariate analysis, descriptive statistics,
 #### ----------Autoencoders--------------
 [<img alt="Autoencoders" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*aiIb62GfeuGa4BEg7_CPJw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/unleashing-the-power-of-autoencoders-e0e019650de9)
 #### -----------------Numbers of Clusters---------------
-[<img alt="Clusters" src="![image](https://github.com/Brunoborges95/Brunoborges95/assets/36872369/4e96df71-1538-43e5-b468-46fda163c5ce)"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
+[<img alt="Clusters" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/4e96df71-1538-43e5-b468-46fda163c5ce"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
 #### -----------------Credit Approval Model--------
 [<img alt="Creditas" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/8c9397da-ed8e-44cd-b961-09af6547747a"  width="300" height="200">](https://github.com/Brunoborges95/Data-Science-Projects/blob/main/Processos_seletivos/desafio-ds-creditas/Desafio%20Data%20Science%20-%20Creditas.ipynb)
 
