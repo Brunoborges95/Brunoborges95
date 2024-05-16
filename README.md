@@ -47,6 +47,12 @@ A time series project, where Walmart's M5 competition database was used as a dat
 
 [<img alt="Forecast" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/d2f10226-ad86-4166-98ed-7ab185919af9"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/m5-time-series-forecasting-using-mapa-sarimax)
 #### -----------------AWS Data Lake---------------
+In this series of articles on Medium, I talk about how to create a datalake on AWS using Kinesis, Lake Formation, Glue, and datalakehouse frameworks (Hudi, Iceberg, and Delta Lake).
+In the first article, I discuss how to use Kinesis to send real-time data to an S3 bucket.
+In the second article, I introduce Lake Formation and the steps to create one.
+In the third article, I present the concept of a data lakehouse and how you can implement any of the three open-source frameworks using Glue.
+The idea is to continue writing posts, not only covering data engineering aspects but also discussing modeling and deployment on Sagemaker. Enjoy reading!
+
 [<img alt="AWS Data" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*4xgAidwmB9adVeA6pq0jbg.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/the-road-of-data-in-aws-c8f5fdf37c19)
 #### ---------------Recommender with Pyspark-------
 [<img alt="Recommender" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VZ26etj-rCbLyr1RvzFnuw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/recommender-system-using-als-in-pyspark-10329e1d1ee1)
