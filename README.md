@@ -22,8 +22,9 @@ I have experience with python and R languages, using several libraries related t
 Advanced knowledge in statistics (multivariate analysis, descriptive statistics, inference and hypothesis testing).
 
 ### Link to some of my projects
-
+Click on the images to be redirected to my project links :)
 #### ----------Investment app------------
+It is an app built with streamlit and published with heroku where an application was created that maximizes the return for a given level of risk (CVaR - conditional value at risk) using linear programming.
 [<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://efficientportfolio-083c7378fbb2.herokuapp.com/)
 
 #### ----------LLM With RAG------------
