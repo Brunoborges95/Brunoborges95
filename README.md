@@ -66,6 +66,8 @@ Autoencorder is a type of neural network architecture that aroused my interest. 
 #### -----------------Numbers of Clusters---------------
 [<img alt="Clusters" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/4e96df71-1538-43e5-b468-46fda163c5ce"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
 #### -----------------Credit Approval Model--------
+The objective of this challenge is to build a classification model that returns the probability that a customer has of being sent for credit analysis given that they have been pre-approved for a car loan. This way, the company can prioritize customers who are most likely to be served first.
+
 [<img alt="Creditas" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/8c9397da-ed8e-44cd-b961-09af6547747a"  width="300" height="200">](https://github.com/Brunoborges95/Data-Science-Projects/blob/main/Processos_seletivos/desafio-ds-creditas/Desafio%20Data%20Science%20-%20Creditas.ipynb)
 
 
