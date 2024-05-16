@@ -38,8 +38,9 @@ This project aims to create a Language Model (LLM) that interacts with users abo
 App recommendation engine. Uses the app database per user (collaborative filtering) + user or apps features to make a recommendation. By default, the training model is the LightFM, a hybrid latent representation recommender model. The loss function used is WARP - Weighted Approximate-Rank Pairwise 
 
 [<img alt="App Recommender" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgbvoAXJNtukPaLxGAZTiJVY9ERi-Et7t5jsC-3t-72S1yl_URjMn4GWdYFn72YGYC00&usqp=CAU"  width="300" height="200">](https://github.com/Brunoborges95/Data-Science-Projects/tree/main/user-app-recommender)
-#### -------------------Credit Fraud -----------
-[<img alt="Credit Fraud" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/59261a67-a3c8-481c-9215-ab859ff4f66e"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/credit-fraud-supervised-vs-semisupervised-learning)
+#### -------------------Fraud Detection-----------
+It is a complete end-to-end project, where I did the exploratory analysis, modeling, evaluation and deployment of a fraud detection system.
+[<img alt="Credit Fraud" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/59261a67-a3c8-481c-9215-ab859ff4f66e"  width="300" height="200">](https://github.com/Brunoborges95/E2E_DS_Fraud_Detection)
 
 #### --------Forecast with SARIMAX-----------
 [<img alt="Forecast" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/d2f10226-ad86-4166-98ed-7ab185919af9"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/m5-time-series-forecasting-using-mapa-sarimax)
