@@ -55,6 +55,8 @@ The idea is to continue writing posts, not only covering data engineering aspect
 
 [<img alt="AWS Data" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*4xgAidwmB9adVeA6pq0jbg.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/the-road-of-data-in-aws-c8f5fdf37c19)
 #### ---------------Recommender with Pyspark-------
+It's a project that deals with one of the areas I like most: Recommender systems! Here I implemented a system that uses collaborative filtering to recommend video games to users. The ALS algorithm was used with the pyspark ecosystem
+
 [<img alt="Recommender" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VZ26etj-rCbLyr1RvzFnuw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/recommender-system-using-als-in-pyspark-10329e1d1ee1)
 
 #### ----------Autoencoders--------------
