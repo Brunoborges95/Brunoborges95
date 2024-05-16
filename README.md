@@ -63,8 +63,17 @@ It's a project that deals with one of the areas I like most: Recommender systems
 Autoencorder is a type of neural network architecture that aroused my interest. I tried to compile in this article some interesting applications that I read in academic articles and other posts, such as recommendation systems, synthetic data generation and anomaly detection, with code implementation using tensorflow and some famous datasets.
 
 [<img alt="Autoencoders" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*aiIb62GfeuGa4BEg7_CPJw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/unleashing-the-power-of-autoencoders-e0e019650de9)
-#### -----------------Numbers of Clusters---------------
-[<img alt="Clusters" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/4e96df71-1538-43e5-b468-46fda163c5ce"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
+#### -----------------My arcticles on Linkedin---------------
+I wrote some articles on LinkedIn (in Portuguese):
+- How to find the cluster number - In this text we will use some clustering techniques (K-Means, Affinity Propagation and hierarchical algorithms) to segment customers on a credit basis and we will study different techniques to find the ideal number of clusters.
+[<img alt="Clusters" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/e2e6bfb0-73f1-4dd0-979a-c90497ff8e0a"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
+
+- Credit Fraud Detection - Here we will discuss methods for applying machine learning to unbalanced bases, taking as an example a fraud detection problem. Comparison will be made with Random Forest, XGBoost and semi-supervised learning algorithms using Gaussian mixture and autoencoders.
+- [<img alt="Clusters" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/4e96df71-1538-43e5-b468-46fda163c5ce"  width="300" height="200">](https://www.linkedin.com/pulse/detec%2525C3%2525A7%2525C3%2525A3o-de-fraudes-com-aprendizagem-supervisionada-e-bruno/?trackingId=0zclviJTSseaN7Y6dGqBzA%3D%3D)
+- Philosophy! In this article we will see what a "good model" means in science and how hypothesis testing validates scientific knowledge. The "source of knowledge" will also be discussed, with its empiricist and rationalist schools of thought and some discussions about machine learning algorithm models.
+- [<img alt="Clusters" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/8f59882f-2825-45f6-b81e-5e4b9972ec81"  width="300" height="200">](https://www.linkedin.com/pulse/o-que-s%2525C3%2525A3o-modelos-cient%2525C3%2525ADficos-e-como-eles-funcionam-borges-de-souza/?trackingId=dMZiwQN%2BTk6MR3ybPDFecA%3D%3D)
+- AutoML - Here I wrote a text about the main AutoML libraries: AutoKeras, Auto-Sklearn, TPOT and H2O Auto ML, in addition to briefly explaining genetic and Bayesian optimization algorithms.
+- [<img alt="Clusters" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/7f6374d1-e4a6-446f-a2e4-489782911f5b"  width="300" height="200">](https://www.linkedin.com/pulse/auto-machine-learning-o-que-%2525C3%2525A9-aplica%2525C3%2525A7%2525C3%2525B5es-e-desafios-borges-de-souza/?trackingId=wF7kZV6vSPWK2P4ckJ%2BqLw%3D%3D)
 #### -----------------Credit Approval Model--------
 The objective of this challenge is to build a classification model that returns the probability that a customer has of being sent for credit analysis given that they have been pre-approved for a car loan. This way, the company can prioritize customers who are most likely to be served first.
 
