@@ -60,6 +60,8 @@ It's a project that deals with one of the areas I like most: Recommender systems
 [<img alt="Recommender" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VZ26etj-rCbLyr1RvzFnuw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/recommender-system-using-als-in-pyspark-10329e1d1ee1)
 
 #### ----------Autoencoders--------------
+Autoencorder is a type of neural network architecture that aroused my interest. I tried to compile in this article some interesting applications that I read in academic articles and other posts, such as recommendation systems, synthetic data generation and anomaly detection, with code implementation using tensorflow and some famous datasets.
+
 [<img alt="Autoencoders" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*aiIb62GfeuGa4BEg7_CPJw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/unleashing-the-power-of-autoencoders-e0e019650de9)
 #### -----------------Numbers of Clusters---------------
 [<img alt="Clusters" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/4e96df71-1538-43e5-b468-46fda163c5ce"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
