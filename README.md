@@ -5,7 +5,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/brunoborges95)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCunU2gQ7M_A7TJ1snx-5cBA)
 
-[![Bruno Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunoborges95&show_icons=false&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoborges95&hide_progress=True)
 
 ### Technologies I use
