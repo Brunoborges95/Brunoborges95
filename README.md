@@ -29,6 +29,8 @@ It is an app built with streamlit and published with heroku where an application
 [<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://efficientportfolio-083c7378fbb2.herokuapp.com/)
 
 #### ----------LLM With RAG------------
+This project aims to create a Language Model (LLM) that interacts with users about their favorite books. Users can select their preferred books and then ask questions or engage in conversations about those books with the LLM.
+
 [<img alt="RAG" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/1c50bbd0-7802-4195-ad8e-415969dfe912"
   width="300" height="200">](https://github.com/Brunoborges95/LLM-RAG/tree/main)
 
