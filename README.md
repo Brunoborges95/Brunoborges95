@@ -43,6 +43,8 @@ It is a complete end-to-end project, where I did the exploratory analysis, model
 [<img alt="Credit Fraud" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/59261a67-a3c8-481c-9215-ab859ff4f66e"  width="300" height="200">](https://github.com/Brunoborges95/E2E_DS_Fraud_Detection)
 
 #### --------Forecast with SARIMAX-----------
+A time series project, where Walmart's M5 competition database was used as a dataset and the MAPA - Multiple Aggregation Prediction Algorithm technique. Temporal aggregation can help identify the characteristics of series as they are refined through different frequencies (daily, weekly, monthly, bimonthly, for example). The aim is to show that using multiple levels of temporal aggregation can lead to substantial improvements in terms of performance prediction.
+
 [<img alt="Forecast" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/d2f10226-ad86-4166-98ed-7ab185919af9"  width="300" height="200">](https://www.kaggle.com/code/brunoborges95/m5-time-series-forecasting-using-mapa-sarimax)
 #### -----------------AWS Data Lake---------------
 [<img alt="AWS Data" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*4xgAidwmB9adVeA6pq0jbg.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/the-road-of-data-in-aws-c8f5fdf37c19)
