@@ -67,7 +67,7 @@ Autoencorder is a type of neural network architecture that aroused my interest. 
 I wrote some articles on LinkedIn (in Portuguese):
 - How to find the cluster number - In this text we will use some clustering techniques (K-Means, Affinity Propagation and hierarchical algorithms) to segment customers on a credit basis and we will study different techniques to find the ideal number of clusters.
 
-[<img alt="Clusters" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/e2e6bfb0-73f1-4dd0-979a-c90497ff8e0a"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
+  [<img alt="Clusters" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/e2e6bfb0-73f1-4dd0-979a-c90497ff8e0a"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
 
 - Credit Fraud Detection - Here we will discuss methods for applying machine learning to unbalanced bases, taking as an example a fraud detection problem. Comparison will be made with Random Forest, XGBoost and semi-supervised learning algorithms using Gaussian mixture and autoencoders.
 
