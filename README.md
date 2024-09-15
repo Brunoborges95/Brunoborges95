@@ -25,7 +25,7 @@ Click on the images to be redirected to my project links :)
 #### ----------Investment app------------
 It is an app built with streamlit and published with heroku where an application was created that maximizes the return for a given level of risk (CVaR - conditional value at risk) using linear programming. The application also contains a backtest, where it is possible to go back in time and evaluate the performance of a portfolio optimized to minimize the risk.
 
-[<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://efficientportfolio-083c7378fbb2.herokuapp.com/)
+[<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://github.com/Brunoborges95/portfolio_eficiente)
 
 #### ----------LLM With RAG------------
 This project aims to create a Language Model (LLM) that interacts with users about their favorite books. Users can select their preferred books and then ask questions or engage in conversations about those books with the LLM.
