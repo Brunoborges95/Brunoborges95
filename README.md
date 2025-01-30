@@ -27,6 +27,16 @@ It is an app built with streamlit and published with heroku where an application
 
 [<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://github.com/Brunoborges95/portfolio_eficiente)
 
+#### ----------Data Science / Optimization and Operations Research (Short Track)------------
+This project aims to assess knowledge in exploration, hypothesis formulation, data manipulation and implementation of meta-heuristics to solve optimization problems.
+
+[<img alt="Investment app" src="https://github.com/user-attachments/assets/262d727b-33af-4561-a697-c3ee8a795318"  width="300" height="200">](https://github.com/Brunoborges95/Teste_DS_e_PO)
+
+#### ----------Investment app------------
+It is an app built with streamlit and published with heroku where an application was created that maximizes the return for a given level of risk (CVaR - conditional value at risk) using linear programming. The application also contains a backtest, where it is possible to go back in time and evaluate the performance of a portfolio optimized to minimize the risk.
+
+[<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://github.com/Brunoborges95/portfolio_eficiente)
+
 #### ----------LLM With RAG------------
 This project aims to create a Language Model (LLM) that interacts with users about their favorite books. Users can select their preferred books and then ask questions or engage in conversations about those books with the LLM.
 
