@@ -66,6 +66,7 @@ Autoencorder is a type of neural network architecture that aroused my interest. 
 #### -----------------My arcticles on Linkedin---------------
 I wrote some articles on LinkedIn (in Portuguese):
 - For those interested in investments, data science and optimization algorithms, I wrote an article on how to optimize the risk-return relationship of investment portfolios using data science techniques for linear and non-linear optimization and using genetic algorithms.
+
 [<img alt="stocks" src="https://media.licdn.com/dms/image/v2/C4D12AQEw9Rz0IvHc3w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1629222928009?e=1743638400&v=beta&t=2bkIZ175biuMZIHmgRgyWok6I7PpeGph_sJhqRJ7APo"  width="300" height="200">](https://www.linkedin.com/pulse/otimizando-carteiras-de-investimentos-com-data-bruno-borges-de-souza/?trackingId=HoeK1teHTJO5dTVqHStR9g%3D%3D)
   
 - How to find the cluster number - In this text we will use some clustering techniques (K-Means, Affinity Propagation and hierarchical algorithms) to segment customers on a credit basis and we will study different techniques to find the ideal number of clusters.
