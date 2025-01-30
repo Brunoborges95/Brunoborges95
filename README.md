@@ -32,6 +32,11 @@ This project aims to assess knowledge in exploration, hypothesis formulation, da
 
 [<img alt="Investment app" src="https://github.com/user-attachments/assets/262d727b-33af-4561-a697-c3ee8a795318"  width="300" height="200">](https://github.com/Brunoborges95/Teste_DS_e_PO)
 
+#### ---------- Offer Distribution System------------
+This project implements a machine learning system to predict whether an offer will be completed after being sent to a customer. Based on this prediction, we calculate the expected return on each offer, helping to optimize engagement strategies.
+
+[<img alt="Investment app" src="https://github.com/user-attachments/assets/d52badc7-2d10-4154-8413-5d231c455694"  width="300" height="200">](https://github.com/Brunoborges95/Sistema-de-Distribuicao-de-Ofertas)
+
 #### ----------Investment app------------
 It is an app built with streamlit and published with heroku where an application was created that maximizes the return for a given level of risk (CVaR - conditional value at risk) using linear programming. The application also contains a backtest, where it is possible to go back in time and evaluate the performance of a portfolio optimized to minimize the risk.
 
