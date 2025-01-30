@@ -65,6 +65,9 @@ Autoencorder is a type of neural network architecture that aroused my interest. 
 [<img alt="Autoencoders" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*aiIb62GfeuGa4BEg7_CPJw.png"  width="300" height="200">](https://medium.com/@brunoborges_38708/unleashing-the-power-of-autoencoders-e0e019650de9)
 #### -----------------My arcticles on Linkedin---------------
 I wrote some articles on LinkedIn (in Portuguese):
+- For those interested in investments, data science and optimization algorithms, I wrote an article on how to optimize the risk-return relationship of investment portfolios using data science techniques for linear and non-linear optimization and using genetic algorithms.
+[<img alt="stocks" src="https://media.licdn.com/dms/image/v2/C4D12AQEw9Rz0IvHc3w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1629222928009?e=1743638400&v=beta&t=2bkIZ175biuMZIHmgRgyWok6I7PpeGph_sJhqRJ7APo"  width="300" height="200">](https://www.linkedin.com/pulse/otimizando-carteiras-de-investimentos-com-data-bruno-borges-de-souza/?trackingId=HoeK1teHTJO5dTVqHStR9g%3D%3D)
+  
 - How to find the cluster number - In this text we will use some clustering techniques (K-Means, Affinity Propagation and hierarchical algorithms) to segment customers on a credit basis and we will study different techniques to find the ideal number of clusters.
 
   [<img alt="Clusters" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/e2e6bfb0-73f1-4dd0-979a-c90497ff8e0a"  width="300" height="200">](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%25C3%25A7%25C3%25A3o-m%25C3%25A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
