@@ -25,21 +25,25 @@ Click on the images to be redirected to my project links :)
 #### ----------Investment app------------
 It is an app built with streamlit and published with heroku where an application was created that maximizes the return for a given level of risk (CVaR - conditional value at risk) using linear programming. The application also contains a backtest, where it is possible to go back in time and evaluate the performance of a portfolio optimized to minimize the risk.
 https://github.com/Brunoborges95/portfolio_eficiente
+
 [<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://github.com/Brunoborges95/portfolio_eficiente)
 
 #### ----------Data Science / Optimization and Operations Research (Short Track)------------
 This project aims to assess knowledge in exploration, hypothesis formulation, data manipulation and implementation of meta-heuristics to solve optimization problems.
 https://github.com/Brunoborges95/Teste_DS_e_PO
+
 [<img alt="Investment app" src="https://github.com/user-attachments/assets/262d727b-33af-4561-a697-c3ee8a795318"  width="300" height="200">](https://github.com/Brunoborges95/Teste_DS_e_PO)
 
 #### ---------- Offer Distribution System------------
 This project implements a machine learning system to predict whether an offer will be completed after being sent to a customer. Based on this prediction, we calculate the expected return on each offer, helping to optimize engagement strategies.
 https://github.com/Brunoborges95/Sistema-de-Distribuicao-de-Ofertas
+
 [<img alt="Investment app" src="https://github.com/user-attachments/assets/d52badc7-2d10-4154-8413-5d231c455694"  width="300" height="200">](https://github.com/Brunoborges95/Sistema-de-Distribuicao-de-Ofertas)
 
 #### ----------Investment app------------
 It is an app built with streamlit and published with heroku where an application was created that maximizes the return for a given level of risk (CVaR - conditional value at risk) using linear programming. The application also contains a backtest, where it is possible to go back in time and evaluate the performance of a portfolio optimized to minimize the risk.
 https://github.com/Brunoborges95/portfolio_eficiente
+
 [<img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932"  width="300" height="200">](https://github.com/Brunoborges95/portfolio_eficiente)
 
 #### ----------LLM With RAG------------
