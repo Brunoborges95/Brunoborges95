@@ -134,6 +134,8 @@ A collection of my Portuguese-language articles on LinkedIn:
 [![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/detec%C3%A7%C3%A3o-de-fraudes-com-aprendizagem-supervisionada-e-bruno/?trackingId=0zclviJTSseaN7Y6dGqBzA%3D%3D)
 
 #### 🧠 Philosophy of Science
-<img alt="Philosophy" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/8f59882a-2825-45f6-b81e-5e4b9972ec81" width="300" height="200
+<img alt="Philosophy" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/8f59882a-2825-45f6-b81e-5e4b9972ec81" width="300" height="200">
+[![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/detec%C3%A7%C3%A3o-de-fraudes-com-aprendizagem-supervisionada-e-bruno/?trackingId=0zclviJTSseaN7Y6dGqBzA%3D%3D)
+
 
 
