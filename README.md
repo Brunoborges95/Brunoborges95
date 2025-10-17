@@ -119,7 +119,7 @@ Article exploring applications of autoencoders in recommendation systems, synthe
 A collection of my Portuguese-language articles on LinkedIn:
 
 #### 📈 Portfolio Optimization
-<img alt="stocks" src="https://media.licdn.com/dms/image/v2/C4D12AQEw9Rz0IvHc3w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1629222928009?e=1743638400&v=beta&t=2bkIZ175biuMZIHmgRgyWok6I7PpeGph_sJhqRJ7APo" width="300" height="200">
+<img alt="stocks" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932" width="300" height="200">
 
 [![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/otimizando-carteiras-de-investimentos-com-data-bruno-borges-de-souza/?trackingId=HoeK1teHTJO5dTVqHStR9g%3D%3D)
 
