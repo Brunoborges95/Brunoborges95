@@ -24,7 +24,7 @@ Advanced knowledge in statistics (multivariate analysis, descriptive statistics,
 Click on the images or badges below to explore my projects!
 
 ### Order Days Prediction (Data Science Challenge)
-This project addresses a real-world logistics optimization problem proposed in the **BEES Data Science Challenge**.  
+This project addresses a real-world logistics optimization problem.  
 The objective is to **predict the remaining number of order days in a month for each user**, at any point in time, using historical transaction data and partial current-month information.
 
 The solution is designed to be **interpretable, statistically grounded, and scalable**, aligning with practical business constraints.
