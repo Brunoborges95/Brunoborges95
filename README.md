@@ -29,7 +29,7 @@ The objective is to **predict the remaining number of order days in a month for 
 
 The solution is designed to be **interpretable, statistically grounded, and scalable**, aligning with practical business constraints.
 
-<img width="1284" height="733" alt="Image" src="https://github.com/user-attachments/assets/e56d5bd9-451b-49c8-81cb-780cf58f8eee" />
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/e56d5bd9-451b-49c8-81cb-780cf58f8eee" />
 
 [![View Project](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Brunoborges95/BEES-Challenge)
 ---
