@@ -20,12 +20,21 @@
 I have experience with python and R languages, using several libraries related to data science (Pandas, numpy, scikit-learn, scipy, pyspark, tensorflow, lightFM etc).
 Advanced knowledge in statistics (multivariate analysis, descriptive statistics, inference and hypothesis testing).
 
-## 💼 Link to some of my projects
-Click on the images or badges below to explore my projects 🚀
+## Link to some of my projects
+Click on the images or badges below to explore my projects!
 
+### Order Days Prediction (Data Science Challenge)
+This project addresses a real-world logistics optimization problem proposed in the **BEES Data Science Challenge**.  
+The objective is to **predict the remaining number of order days in a month for each user**, at any point in time, using historical transaction data and partial current-month information.
+
+The solution is designed to be **interpretable, statistically grounded, and scalable**, aligning with practical business constraints.
+
+<img width="1284" height="733" alt="Image" src="https://github.com/user-attachments/assets/e56d5bd9-451b-49c8-81cb-780cf58f8eee" />
+
+[![View Project](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Brunoborges95/BEES-Challenge)
 ---
 
-### 💰 Investment App
+### Investment App
 It is an app built with Streamlit and published with Heroku where an application was created that maximizes the return for a given level of risk (CVaR - conditional value at risk) using linear programming. The application also contains a backtest, where it is possible to go back in time and evaluate the performance of a portfolio optimized to minimize the risk.
 
 <img alt="Investment app" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932" width="300" height="200">
@@ -34,7 +43,7 @@ It is an app built with Streamlit and published with Heroku where an application
 
 ---
 
-### 📊 Data Science / Optimization and Operations Research (Short Track)
+### Data Science / Optimization and Operations Research (Short Track)
 This project aims to assess knowledge in exploration, hypothesis formulation, data manipulation and implementation of meta-heuristics to solve optimization problems.
 
 <img alt="Optimization" src="https://github.com/user-attachments/assets/262d727b-33af-4561-a697-c3ee8a795318" width="300" height="200">
@@ -43,7 +52,7 @@ This project aims to assess knowledge in exploration, hypothesis formulation, da
 
 ---
 
-### 🧩 Offer Distribution System
+### Offer Distribution System
 Machine learning system to predict whether an offer will be completed after being sent to a customer, calculating expected returns and optimizing engagement strategies.
 
 <img alt="Offer Distribution" src="https://github.com/user-attachments/assets/d52badc7-2d10-4154-8413-5d231c455694" width="300" height="200">
@@ -52,7 +61,7 @@ Machine learning system to predict whether an offer will be completed after bein
 
 ---
 
-### 📚 LLM With RAG
+### LLM With RAG
 An LLM that interacts with users about their favorite books. Users can select their preferred books and then ask questions or engage in conversations with the LLM.
 
 <img alt="RAG" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/1c50bbd0-7802-4195-ad8e-415969dfe912" width="300" height="200">
@@ -61,7 +70,7 @@ An LLM that interacts with users about their favorite books. Users can select th
 
 ---
 
-### 📱 App Recommender
+### App Recommender
 App recommendation engine using hybrid collaborative filtering (LightFM + WARP loss).
 
 <img alt="App Recommender" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgbvoAXJNtukPaLxGAZTiJVY9ERi-Et7t5jsC-3t-72S1yl_URjMn4GWdYFn72YGYC00&usqp=CAU" width="300" height="200">
@@ -70,7 +79,7 @@ App recommendation engine using hybrid collaborative filtering (LightFM + WARP l
 
 ---
 
-### 🕵️ Fraud Detection
+### Fraud Detection
 End-to-end project for fraud detection — from EDA and modeling to evaluation and deployment.
 
 <img alt="Credit Fraud" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/59261a67-a3c8-481c-9215-ab859ff4f66e" width="300" height="200">
@@ -79,7 +88,7 @@ End-to-end project for fraud detection — from EDA and modeling to evaluation a
 
 ---
 
-### 📈 Forecast with SARIMAX
+### Forecast with SARIMAX
 Time series forecasting using Walmart’s M5 dataset and MAPA aggregation, showing how temporal aggregation can improve predictive performance.
 
 <img alt="Forecast" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/d2f10226-ad86-4166-98ed-7ab185919af9" width="300" height="200">
@@ -88,7 +97,7 @@ Time series forecasting using Walmart’s M5 dataset and MAPA aggregation, showi
 
 ---
 
-### ☁️ AWS Data Lake
+### AWS Data Lake
 Series of Medium articles on building an AWS Data Lake with Kinesis, Lake Formation, Glue, and Datalakehouse frameworks (Hudi, Iceberg, Delta Lake).
 
 <img alt="AWS Data" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*4xgAidwmB9adVeA6pq0jbg.png" width="300" height="200">
@@ -97,7 +106,7 @@ Series of Medium articles on building an AWS Data Lake with Kinesis, Lake Format
 
 ---
 
-### 🎮 Recommender with PySpark
+### Recommender with PySpark
 A recommender system for video games using collaborative filtering with ALS in the PySpark ecosystem.
 
 <img alt="Recommender" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VZ26etj-rCbLyr1RvzFnuw.png" width="300" height="200">
@@ -106,7 +115,7 @@ A recommender system for video games using collaborative filtering with ALS in t
 
 ---
 
-### 🤖 Autoencoders
+### Autoencoders
 Article exploring applications of autoencoders in recommendation systems, synthetic data generation, and anomaly detection using TensorFlow.
 
 <img alt="Autoencoders" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*aiIb62GfeuGa4BEg7_CPJw.png" width="300" height="200">
@@ -115,25 +124,25 @@ Article exploring applications of autoencoders in recommendation systems, synthe
 
 ---
 
-### 📰 Articles on LinkedIn
+### Articles on LinkedIn
 A collection of my Portuguese-language articles on LinkedIn:
 
-#### 📈 Portfolio Optimization
+#### Portfolio Optimization
 <img alt="stocks" src="https://github.com/Brunoborges95/Brunoborges95/assets/36872369/f504021f-b480-42f9-8b2c-a9632a006932" width="300" height="200">
 
 [![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/otimizando-carteiras-de-investimentos-com-data-bruno-borges-de-souza/?trackingId=HoeK1teHTJO5dTVqHStR9g%3D%3D)
 
-#### 🧮 Clustering Methods
+#### Clustering Methods
 <img alt="Clusters" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/e2e6bfb0-73f1-4dd0-979a-c90497ff8e0a" width="300" height="200">
 
 [![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/algoritmos-de-clusteriza%C3%A7%C3%A3o-m%C3%A9todos-para-definir-o-borges-de-souza/?trackingId=ZCt7jt8FRN6S6m05zLnVlw%3D%3D)
 
-#### 🕵️‍♂️ Credit Fraud Detection
+#### Credit Fraud Detection
 <img alt="Fraud" src="https://github.com/Brunoborges95/Data-Science-Projects/assets/36872369/6638e82a-a53d-4a7e-ad29-85ce97ea406d" width="300" height="200">
 
 [![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/detec%C3%A7%C3%A3o-de-fraudes-com-aprendizagem-supervisionada-e-bruno/?trackingId=0zclviJTSseaN7Y6dGqBzA%3D%3D)
 
-#### 🧠 Philosophy of Science
+#### Philosophy of Science
 <img width="300" height="200" alt="Philosophy" src="https://github.com/user-attachments/assets/6ee16e86-ed21-498a-b12c-1036b81e9d3c" />
 
 [![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/detec%C3%A7%C3%A3o-de-fraudes-com-aprendizagem-supervisionada-e-bruno/?trackingId=0zclviJTSseaN7Y6dGqBzA%3D%3D)
