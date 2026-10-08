@@ -1,6 +1,7 @@
 # Bruno Borges de Souza | Data Scientist
 
-Senior Data Scientist with a background in Applied Mathematics and Production Engineering. I work at the intersection of machine learning, statistical modeling, mathematical optimization, recommendation systems, and Generative AI.
+
+Data Scientist with a background in Applied Mathematics and Production Engineering. I work at the intersection of machine learning, statistical modeling, mathematical optimization, recommendation systems, and Generative AI.
 
 I combine mathematical rigor with practical problem-solving: defining the right target, validating assumptions, preventing data leakage, evaluating models, and translating predictions into business decisions.
 
